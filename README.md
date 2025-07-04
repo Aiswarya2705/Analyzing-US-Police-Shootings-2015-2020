@@ -4,5 +4,6 @@ The project shows the final analysis using the 'Story' functionality in Tableau,
 - The first one, 'What was happening till now', utlizies line charts to show shootings over time against different Races (Asian, Black, Hispanic, Native), and tabular visualizations to show the average age of people shot and remembering the victims' names.
   <img width="776" alt="policeShootings_1" src="https://github.com/user-attachments/assets/33004e9b-e30c-42eb-b38b-03d186e7286e" />
 - The second part, 'The victims in each state', uses animation to show how the victim numbers in each state changes from 2015-2020.
+  <img width="403" alt="Shootings by State" src="https://github.com/user-attachments/assets/d50212cf-c9e1-4369-b4b0-f3982caa5f2f" />
 - The last part of the story, 'How does Mental Illness play a part', aims to analyze if the victims were targeted on the basis of their mental illness related behavior. All of the three dashboards uses filters to help focus on the required category to focus on. 
-
+<img width="776" alt="MentalIllnessFactor" src="https://github.com/user-attachments/assets/ca8d7749-9106-48e4-a4d7-92a01c13f9bf" />
